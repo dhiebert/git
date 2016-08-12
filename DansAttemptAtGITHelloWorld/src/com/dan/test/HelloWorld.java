@@ -15,7 +15,7 @@ import javax.servlet.http.HttpServletResponse;
  * adding more text ... going to merge.
  * blah blah blah
  */
-@WebServlet("/HelloWorld")
+@WebServlet("/HelloWorldDan")
 public class HelloWorld extends HttpServlet {
 	private static final long serialVersionUID = 5L;
        
