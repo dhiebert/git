@@ -11,6 +11,7 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
  * Servlet implementation class HelloWorld
+ * dans tests
  */
 @WebServlet("/HelloWorld")
 public class HelloWorld extends HttpServlet {
